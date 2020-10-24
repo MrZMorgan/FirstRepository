@@ -1,4 +1,5 @@
 Good bye!
 Some other line
 Line form user2
+anouther line form user2
 
