@@ -2,3 +2,4 @@ Hello world!
 Goof bye
 asdadsa
 Good morning! (from branch add feature 1)
+line from user 2
