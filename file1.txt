@@ -1,7 +1,5 @@
 Hello world!
 Goof bye
 asdadsa
-Hello from user1
-Good evening(from branch master)
-linew from user 1
-
+Good morning! (from branch add feature 1)
+line from user 2
